@@ -278,3 +278,6 @@ java -jar miHoYoSign.jar
 ## 直接或间接引用到的其他开源项目
 - [OneBot Mirai](https://github.com/yyuueexxiinngg/onebot-kotlin)
 - [genshin-impact-helper](https://github.com/y1ndan/genshin-impact-helper)
+
+后续功能参考链接：
+https://github.com/1556173267/Genshin_id_inquiry#genshin_id_serach
